@@ -1,0 +1,37 @@
+<div class="products">
+	<div class="container">
+		<div class="products__content">
+			<div class="products__left">
+				<h3 class="products__title">
+					POPULAR <br />
+					PRODUCTS
+				</h3>
+				<p>These are just a few of the many popular products</p>
+			</div>
+
+			<div class="products__items">
+				{% for product in products %}
+				<section
+					class="products__item"
+					style="background-image: url('{{{product.thumb.background}}}');"
+				>
+					<div>
+						<span class="products__name">{{{product.name}}}</span>
+						<p class="products__description">{{{product.short}}}</p>
+					</div>
+
+					<a class="products__link" href="/service/{{{product.id}}}">
+						detailed
+					</a>
+				</section>
+				{% endfor %}
+			</div>
+
+		</div>
+	</div>
+	<section class="products__advertising">
+		<div class="advertising__title">
+			Here can be your advertising</div>
+		<iframe width="100%" height="768" src="https://www.youtube.com/embed/QjPKzj03NdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</section>
+</div>

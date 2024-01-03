@@ -1,0 +1,31 @@
+{
+	"name": "products",
+	"products": [
+		{
+			"id": "/product",
+			"short": "Lorem ipsum.",
+			"thumb": {
+				"src": "",
+				"background": "/template/img/service__img.jpg"
+			},
+			"name": "product"
+		},
+		{
+			"id": "/product",
+			"short": "Lorem ipsum.",
+			"thumb": {
+				"src": "",
+				"background": "/template/img/product-one__img.jpg"
+			},
+			"name": "product"
+		},{
+			"id": "/product",
+			"short": "Lorem ipsum.",
+			"thumb": {
+				"src": "",
+				"background": "/template/img/product-two__img.jpg"
+			},
+			"name": "product"
+		}
+	]
+}

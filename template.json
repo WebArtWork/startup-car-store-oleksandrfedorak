@@ -1,0 +1,167 @@
+{
+	"title": "Welcome to waw Template",
+	"description": "description",
+	"keywords": "keywords",
+	"prefix": "/template",
+	"picture": "picture",
+	"author": "author",
+	"moderators": [],
+	"scss": "scss/index.scss",
+	"variables": {
+		"land_video": "/template/img/lands.MP4",
+		"land_image": "/template/img/2.webp",
+		"primary_color": "#d3c9b7",
+		"secondary_color": "#f2f1ed",
+		"primary_text_color": "#000000",
+		"secondary_text_color": "#FFFFFF",
+		"primary_radius": "0",
+		"secondar_radius": "0"
+	},
+
+	"header": {
+		"header_logo": "CARBY SUPER SOLUTION FOR YOU!",
+		"header_btn_sign_in": "sign_in",
+		"header_btn_register": "register",
+		"header_menu_item_one": "2000",
+		"header_menu_item_two": "2000",
+		"header_menu_item_three": "2000",
+		"header_menu_item_four": "2000",
+		"header_menu_item_five": "2000"
+
+	},
+
+	"hero": {
+		"hero_title": "CARBY SUPER SOLUTION FOR YOU!",
+		"hero_customers": "More than",
+		"hero_number": "2000",
+		"hero_description_top": "2000",
+		"hero_description_bottom": "2000",
+		"hero_right_title": "SIMPLE, SECURITY, RELEVANCE",
+		"hero_right_description": "",
+		"hero_description_link": "REARN MORE"
+	},
+
+	"service": {
+		"service_title": "ABOUT SERVICES",
+		"service_description_top": "2000",
+		"service_description_bottom": "2000",
+		"service_right_title": "SIMPLE, SECURITY, RELEVANCE",
+		"service_right_description": "",
+		"service_description_link": "REARN MORE",
+		"service_section_title": "SERVICES",
+		"service_section_description": "We have access to over 50 services that can help you solve any problem.",
+		"service_section_right_title": "EVERYTHING YOU NEED IN ONE PLACE",
+		"service_section_right_description": "Car services are essential for keeping your vehicle in good condition and running smoothly. There are a variety of services available, from basic oil changes to more complex repairs."
+	},
+	"product": {
+		"product_title": "PRODUCT",
+		"product_left_description": "You have access to over 100 stores Quickly and conveniently buy original spare parts or high-quality analogues from reliable suppliers.",
+		"product_right_title": "SIMPLE, SECURITY, RELEVANCE",
+		"product_right_description": "Wherever you are, we can help you.",
+		"product_description_link": "REARN MORE"
+	},
+	"map": {
+		"map_title": "MAP",
+		"product_left_description": "Always plan your trip in advance. It will help you avoid surprises and save time."
+	},
+
+
+	"footer_section": {
+		"footer_logo": "CARBY SUPER SOLUTION FOR YOU!",
+		"footer_btn_contact": "sign_in",
+		"footer_btn_register": "register",
+		"footer_social_instgram": "",
+		"footer_btn_facebook": "",
+		"footer_btn_telegram": ""
+	},
+	"footer": {
+		"portfolios": [
+		  {
+			"id": "/portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		  },
+		  {
+			"id": "/portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		  },
+		  {
+			"id": "/portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		  },
+		  {
+			"id": "/portfolio",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "portfolio"
+		  }
+		],
+		"products": [
+		  {
+			"id": "/product",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "product"
+		  },
+		  {
+			"id": "/product",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "product"
+		  },
+		  {
+			"id": "/product",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "product"
+		  }
+		],
+		"services": [
+		  {
+			"id": "/service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		  },
+		  {
+			"id": "/service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		  },
+		  {
+			"id": "/service",
+			"price": 1200,
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "service"
+		  }
+		],
+		"articles": [
+		  {
+			"id": "/article",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "article"
+		  },
+		  {
+			"id": "/article",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "article"
+		  },
+		  {
+			"id": "/article",
+			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
+			"thumb": "https://neryxomka.com/template/img/welcome.png",
+			"name": "article"
+		  }
+		]
+	  }
+}
